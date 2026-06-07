@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<url>
-<loc>https://oslanirdelisle.com/</loc>
-</url>
-
-<url>
-<loc>https://oslanirdelisle.com/about.html</loc>
-</url>
-
-<url>
-<loc>https://oslanirdelisle.com/resume.html</loc>
-</url>
+<url><loc>https://oslanirdelisle.com/</loc></url>
+<url><loc>https://oslanirdelisle.com/about.html</loc></url>
+<url><loc>https://oslanirdelisle.com/resume.html</loc></url>
+<url><loc>https://oslanirdelisle.com/certifications.html</loc></url>
+<url><loc>https://oslanirdelisle.com/projects.html</loc></url>
+<url><loc>https://oslanirdelisle.com/wgu.html</loc></url>
+<url><loc>https://oslanirdelisle.com/contact.html</loc></url>
 
 </urlset>
